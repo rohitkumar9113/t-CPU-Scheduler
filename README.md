@@ -1,2 +1,2 @@
-# t-CPU-Scheduler
+# CPU-Scheduler
 My website
